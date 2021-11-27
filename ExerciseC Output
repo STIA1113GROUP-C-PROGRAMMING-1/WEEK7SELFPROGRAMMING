@@ -1,0 +1,36 @@
+Enter a random number(0-100): 
+9
+Your number is too low.
+Enter a random number(0-100): 
+0
+Your number is too low.
+Enter a random number(0-100): 
+100
+Your number is too high.
+Enter a random number(0-100): 
+99
+Your number is too high.
+Enter a random number(0-100): 
+76
+Your number is too high.
+Enter a random number(0-100): 
+50
+Your number is too low.
+Enter a random number(0-100): 
+65
+Your number is too high.
+Enter a random number(0-100): 
+59
+Your number is too low.
+Enter a random number(0-100): 
+64
+Your number is too high.
+Enter a random number(0-100): 
+62
+Your number is too high.
+Enter a random number(0-100): 
+60
+Your number is too low.
+Enter a random number(0-100): 
+61
+Congratulation!
