@@ -1,0 +1,23 @@
+Output1
+
+Enter your account password : 
+20017
+Your password is incorrect! You have 2 chance. Please try again.
+Enter your account password : 
+20112
+Your password is incorrect! You have 1 chance. Please try again.
+Enter your account password : 
+20012
+Your password is correct
+
+Output2
+Enter your account password : 
+20017
+Your password is incorrect! You have 2 chance. Please try again.
+Enter your account password : 
+20013
+Your password is incorrect! You have 1 chance. Please try again.
+Enter your account password : 
+20010
+Your password is incorrect! You have 0 chance. Please try again.
+Sorry you need to wait for five minutes to key in your password!
