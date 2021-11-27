@@ -1,0 +1,42 @@
+package repetitionAndSelection;
+import java.util.Scanner;
+public class Grad {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub 
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("Please enter your CGPA for Semester1 : ");
+		double a = sc.nextDouble();
+		
+		System.out.print("Please enter your CGPA for Semester2 : ");
+		double b = sc.nextDouble();
+		
+		System.out.print("Please enter your CGPA for Semester3 : ");
+		double c = sc.nextDouble();
+		
+		System.out.print("Please enter your CGPA for Semester4 : ");
+		double d = sc.nextDouble();
+		
+		System.out.print("Please enter your CGPA for Semester5 : ");
+		double e = sc.nextDouble();
+		
+		System.out.print("Please enter your CGPA for Semester6 : ");
+		double f = sc.nextDouble();
+		
+		double sum,average;
+		sum = a+b+c+d+e+f;
+		average = sum/6;
+		
+		if(average>=3.5) 
+			System.out.print("Congratulations! You are graduated and listed in dean list! ");
+		
+		else if(average>=2.0)
+			System.out.print("Congratulations! You are able to graduated! ");
+		
+		else
+			System.out.println("Sorry, you're unable to graduate this year!"
+					           + " Try again next year ! YOU CAN DO IT BADDIE!");
+	}
+
+}
