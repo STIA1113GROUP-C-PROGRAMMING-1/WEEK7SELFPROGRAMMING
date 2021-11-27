@@ -1,0 +1,16 @@
+package repetitionAndSelection;
+
+public class Exercise4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i=1;
+		do {
+			if((i%2)==0)
+				System.out.println(i + "value i%2= " + i%2);
+			else if((i%2)!=0)
+				System.out.println(i + "value i%2= " + i%2);
+			i++;
+		}while(i<10);
+	}
+}
