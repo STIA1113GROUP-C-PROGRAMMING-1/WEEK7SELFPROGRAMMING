@@ -1,0 +1,26 @@
+Output1
+Please enter your CGPA for Semester1 : 4.0
+Please enter your CGPA for Semester2 : 3.95
+Please enter your CGPA for Semester3 : 3.88
+Please enter your CGPA for Semester4 : 3.7
+Please enter your CGPA for Semester5 : 4.0
+Please enter your CGPA for Semester6 : 3.96
+Congratulations! You are graduated and listed in dean list! 
+
+Output2
+Please enter your CGPA for Semester1 : 3.2
+Please enter your CGPA for Semester2 : 3.5
+Please enter your CGPA for Semester3 : 3.17
+Please enter your CGPA for Semester4 : 2.50
+Please enter your CGPA for Semester5 : 3.49
+Please enter your CGPA for Semester6 : 3.75
+Congratulations! You are able to graduated! 
+
+Output3
+Please enter your CGPA for Semester1 : 1.9
+Please enter your CGPA for Semester2 : 2.0
+Please enter your CGPA for Semester3 : 2.0
+Please enter your CGPA for Semester4 : 1.95
+Please enter your CGPA for Semester5 : 1.30
+Please enter your CGPA for Semester6 : 1.2
+Sorry, you're unable to graduate this year! Try again next year ! YOU CAN DO IT BADDIE!
